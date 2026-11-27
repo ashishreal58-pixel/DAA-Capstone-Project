@@ -153,11 +153,6 @@ Takeaways:
 | `test_dijkstra` | Shortest A → D in a 4-node graph is 6 |
 | `test_route` | NN route A-B-D-A has the expected order and length 12 |
 
-## Limitations
-
-- Nearest-neighbour is a heuristic and not guaranteed to be optimal.
-- Single vehicle and a single trip.
-- Parcel weights must be integers.
 
 ## Future Improvements
 
